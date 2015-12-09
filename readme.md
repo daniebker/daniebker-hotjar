@@ -17,4 +17,4 @@ This [Koken](http://koken.me/) plugin allows you to quickly add [hotjar](https:/
 
 ## Demo
 
-[daniebker](http://daniebker.co.uk) view page source to see the tracking code added as part of the document head.
+[daniebker](http://daniebker.co.uk) 
