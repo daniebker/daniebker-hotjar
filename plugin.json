@@ -1,0 +1,17 @@
+{
+  "name": "hotjar",
+  "version": "1.0",
+  "description": "Automatically add hotjar tracking code to any theme.",
+  "author": {
+    "name": "daniel baker",
+    "link": "http://daniebker.co.uk"
+  },
+
+  "data": {
+    "hotjar_tracking_id": {
+      "label": "hotjar Tracking ID",
+      "info": "You can find your tracking info by logging into hotjar, then selecting the hjid from the line h._hjSettings={hjid:1234567,hjsv:5};. You only need the number.",
+      "type": "string"
+    }
+  }
+}
